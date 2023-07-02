@@ -18,6 +18,10 @@ Installation
     $ pkg install git 
     $ pkg install python -y
     $ git clone https://github.com/thbbd-Jubayer-Juty/facebook-clonner
+
+    Run the following commands in 
+    termux to set up this tool.
+    
     $ cd facebook-clonner
     $ python main.py
 
