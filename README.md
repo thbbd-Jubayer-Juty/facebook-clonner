@@ -1,7 +1,4 @@
-
-            Introduction
-           ______________
-
+#Introduction
 
     This is facebook old id cracker
     made with python. If you misuse
